@@ -1,0 +1,4 @@
+e2e/venv
+e2e/pages/__pycache__
+e2e/tests/__pycache__
+e2e/videos/
